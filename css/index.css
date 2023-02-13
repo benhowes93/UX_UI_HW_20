@@ -1,0 +1,61 @@
+.research{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    background-color: black;
+}
+
+.nav-item{
+    color: white;
+}
+
+.jumbotron{
+    background-color: white;
+}
+
+.research{
+    background-image: url(../images/Airportimage2.png);
+    background-size: cover;
+}
+
+.jumboSection{
+    padding: 50px;
+    background-color: black;
+}
+.research{
+    padding: 50px;
+}
+.problemStatement{
+    padding: 50px;
+    background-color: black;
+   
+    
+}
+.prototyping{
+    padding: 50px;
+    background-color: black;
+  
+}
+.testing{
+    padding: 50px;
+    background-color: black;
+}
+.midFi{
+    padding: 50px;
+    background-color: black;
+}
+
+/*.prototyping{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; /*
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
